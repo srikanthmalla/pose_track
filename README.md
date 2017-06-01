@@ -1,5 +1,5 @@
 # pose_track
-tracking the pose of toy with 4 markers even when few markers are occluded1
+tracking the pose of toy with 4 markers even when some markers are occluded
 
 # How to use
 Run the rosmaster
